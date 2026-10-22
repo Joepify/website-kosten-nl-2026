@@ -1,0 +1,94 @@
+{
+  "source": "https://www.joepify.nl/website-laten-maken-kosten",
+  "provider": "Joepify, Metaalhof 27, 3067 GM Rotterdam (KvK 92874037)",
+  "currency": "EUR",
+  "vat_included": false,
+  "vat_rate_nl": 0.21,
+  "checked": "2026-10-22",
+  "one_off": [
+    {
+      "item": "Website Starter",
+      "price_from": 1499,
+      "includes": "tot 5 pagina's, eigen ontwerp, SEO-basis",
+      "timeline": "live binnen 2 weken als teksten en foto's klaar zijn",
+      "url": "https://www.joepify.nl/website-laten-maken"
+    },
+    {
+      "item": "Website Growth",
+      "price_from": 3499,
+      "includes": "onbeperkt pagina's, uitgebreide SEO, eigen animaties, 30 dagen nazorg",
+      "url": "https://www.joepify.nl/website-laten-maken"
+    },
+    {
+      "item": "Webshop Start (Shopify of WooCommerce)",
+      "price_from": 2495,
+      "url": "https://www.joepify.nl/webshop-laten-maken"
+    },
+    {
+      "item": "Webshop Groei",
+      "price_from": 3995,
+      "url": "https://www.joepify.nl/webshop-laten-maken"
+    },
+    {
+      "item": "Webshop Maatwerk",
+      "price_from": 6995,
+      "url": "https://www.joepify.nl/webshop-laten-maken"
+    },
+    {
+      "item": "Web applicatie (maatwerk software)",
+      "price_from": 4999,
+      "timeline": "eerste versie in 6 tot 8 weken",
+      "url": "https://www.joepify.nl/joepify-software"
+    },
+    {
+      "item": "Bedrijfssysteem (maatwerk software met koppelingen)",
+      "price_from": 12999,
+      "timeline": "8 tot 14 weken",
+      "url": "https://www.joepify.nl/joepify-software"
+    },
+    {
+      "item": "WordPress spoedhulp",
+      "price_from": 79,
+      "url": "https://www.joepify.nl/wordpress-problemen-oplossen"
+    }
+  ],
+  "monthly": [
+    {
+      "item": "Hosting",
+      "price_from": 9,
+      "url": "https://www.joepify.nl/blog/zakelijke-hosting-nederland"
+    },
+    {
+      "item": "WordPress onderhoud Basic / Standard / Premium",
+      "prices": [
+        35,
+        69,
+        129
+      ],
+      "url": "https://www.joepify.nl/wordpress-onderhoudscontract"
+    },
+    {
+      "item": "Shopify beheer",
+      "price_from": 199,
+      "url": "https://www.joepify.nl/shopify-beheer"
+    }
+  ],
+  "examples_first_year": [
+    {
+      "case": "Starter + hosting",
+      "calc": "1499 + 12 x 9",
+      "total": 1607
+    },
+    {
+      "case": "Starter + hosting + WordPress onderhoud Basic",
+      "calc": "1499 + 12 x 9 + 12 x 35",
+      "total": 2027
+    },
+    {
+      "case": "Webshop Start + Shopify beheer",
+      "calc": "2495 + 12 x 199",
+      "total": 4883,
+      "note": "plus het Shopify-abonnement, dat rechtstreeks aan Shopify wordt betaald"
+    }
+  ]
+}
