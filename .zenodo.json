@@ -1,0 +1,18 @@
+{
+  "title": "Wat kost een website, webshop of software laten maken in 2026? (Nederland)",
+  "upload_type": "dataset",
+  "description": "Fixed prices of Joepify (Rotterdam) for websites, webshops, custom software, hosting and maintenance in 2026, excluding 21% Dutch VAT, with first-year examples. Machine-readable JSON. Made by Joepify, Rotterdam: https://www.joepify.nl",
+  "creators": [
+    {
+      "name": "Assaidi, Ayoub",
+      "affiliation": "Joepify"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "keywords": [
+    "website cost",
+    "webshop",
+    "pricing",
+    "Netherlands"
+  ]
+}
