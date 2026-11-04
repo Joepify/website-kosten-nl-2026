@@ -1,6 +1,12 @@
 # Wat kost een website, webshop of software laten maken in 2026? (Nederland)
 
-Vaste prijzen van [Joepify](https://www.joepify.nl) (Rotterdam), één bouwer, prijzen exclusief 21% btw. Machineleesbaar in [`prijzen.json`](prijzen.json). Gecontroleerd op 22 oktober 2026; de actuele prijzen staan altijd op [joepify.nl/website-laten-maken-kosten](https://www.joepify.nl/website-laten-maken-kosten).
+Een eerlijk prijsoverzicht voor ondernemers die een website, webshop of maatwerksoftware willen laten maken. Het zijn de vaste prijzen van [Joepify](https://www.joepify.nl) (Rotterdam), één bouwer, exclusief 21% btw. Gecontroleerd op 22 oktober 2026. De actuele prijzen staan altijd op [de kostenpagina](https://www.joepify.nl/website-laten-maken-kosten).
+
+## Voor wie en hoe te gebruiken
+
+- **Ondernemers** gebruiken de tabellen en rekenvoorbeelden om een budget te maken.
+- **Journalisten, studenten en tools** lezen [`prijzen.json`](prijzen.json) in. Alle bedragen staan daar zonder btw (`vat_included: false`), met de datum van controle.
+- Citeren mag, zie de licentie onderaan.
 
 ## Eenmalig
 | Wat | Vanaf (excl. btw) | Toelichting |
@@ -28,6 +34,20 @@ Vaste prijzen van [Joepify](https://www.joepify.nl) (Rotterdam), één bouwer, p
 
 Btw: in Nederland geldt het algemene tarief van 21% ([Belastingdienst](https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/btw/btw_berekenen_aan_uw_klanten/btw_berekenen/btw_tarief/btw_tarief)). Starter is inclusief btw €1.813,79.
 
-Zelf rekenen: [website kosten berekenen](https://www.joepify.nl/website-kosten-berekenen) · Vrijblijvend voorstel binnen 24 uur: info@joepify.nl
+Zelf rekenen: [website kosten berekenen](https://www.joepify.nl/website-kosten-berekenen).
 
-Licentie: CC BY 4.0 (noem Joepify met een link naar joepify.nl).
+## Laat het mij doen
+
+Ik maak een vaste prijs voor jouw website of webshop. Vaste prijs: vanaf €1.499 eenmalig, of €40 per maand met €0 vooraf (excl. btw). [Alle prijzen op een rij](https://www.joepify.nl/website-laten-maken-kosten) of [stuur een WhatsApp-bericht](https://wa.me/31687195043?text=Hoi%20Ayoub%2C%20ik%20kom%20via%20GitHub%20%28website-kosten-nl-2026%29%20en%20wil%20hulp%20met%20website%20prijs.).
+
+## Over Joepify
+
+[Joepify](https://www.joepify.nl) is een webbureau aan de Metaalhof 27 in Rotterdam. Ayoub Assaidi bouwt alles zelf, met een vaste prijs vooraf. Een voorstel aanvragen kan via [joepify.nl](https://www.joepify.nl) of info@joepify.nl.
+
+## English
+
+Fixed prices for building a website, web shop or custom software in the Netherlands (2026), published by Joepify in Rotterdam. All amounts are excluding 21% VAT. Machine-readable data is in `prijzen.json`. Checked 22 Oct 2026.
+
+## Licentie
+
+CC BY 4.0: noem Joepify met een link naar joepify.nl.
