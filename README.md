@@ -1,6 +1,6 @@
 # Wat kost een website, webshop of software laten maken in 2026? (Nederland)
 
-Een eerlijk prijsoverzicht voor ondernemers die een website, webshop of maatwerksoftware willen laten maken. Het zijn de vaste prijzen van [Joepify](https://www.joepify.nl) (Rotterdam), één bouwer, exclusief 21% btw. Gecontroleerd op 22 oktober 2026. De actuele prijzen staan altijd op [de kostenpagina](https://www.joepify.nl/website-laten-maken-kosten).
+Een eerlijk prijsoverzicht voor ondernemers die een website, webshop of maatwerksoftware willen laten maken. Het zijn de vaste prijzen van [Joepify](https://www.joepify.nl?utm_source=github&utm_medium=readme&utm_campaign=website-kosten-nl-2026) (Rotterdam), één bouwer, exclusief 21% btw. Gecontroleerd op 22 oktober 2026. De actuele prijzen staan altijd op [de kostenpagina](https://www.joepify.nl/website-laten-maken-kosten?utm_source=github&utm_medium=readme&utm_campaign=website-kosten-nl-2026).
 
 ## Voor wie en hoe te gebruiken
 
@@ -34,15 +34,15 @@ Een eerlijk prijsoverzicht voor ondernemers die een website, webshop of maatwerk
 
 Btw: in Nederland geldt het algemene tarief van 21% ([Belastingdienst](https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/btw/btw_berekenen_aan_uw_klanten/btw_berekenen/btw_tarief/btw_tarief)). Starter is inclusief btw €1.813,79.
 
-Zelf rekenen: [website kosten berekenen](https://www.joepify.nl/website-kosten-berekenen).
+Zelf rekenen: [website kosten berekenen](https://www.joepify.nl/website-kosten-berekenen?utm_source=github&utm_medium=readme&utm_campaign=website-kosten-nl-2026).
 
 ## Laat het mij doen
 
-Ik maak een vaste prijs voor jouw website of webshop. Vaste prijs: vanaf €1.499 eenmalig, of €40 per maand met €0 vooraf (excl. btw). [Alle prijzen op een rij](https://www.joepify.nl/website-laten-maken-kosten) of [stuur een WhatsApp-bericht](https://wa.me/31687195043?text=Hoi%20Ayoub%2C%20ik%20kom%20via%20GitHub%20%28website-kosten-nl-2026%29%20en%20wil%20hulp%20met%20website%20prijs.).
+Ik maak een vaste prijs voor jouw website of webshop. Vaste prijs: vanaf €1.499 eenmalig, of €40 per maand met €0 vooraf (excl. btw). [Alle prijzen op een rij](https://www.joepify.nl/website-laten-maken-kosten?utm_source=github&utm_medium=readme&utm_campaign=website-kosten-nl-2026) of [stuur een WhatsApp-bericht](https://wa.me/31687195043?text=Hoi%20Ayoub%2C%20ik%20kom%20via%20GitHub%20%28website-kosten-nl-2026%29%20en%20wil%20hulp%20met%20website%20prijs.).
 
 ## Over Joepify
 
-[Joepify](https://www.joepify.nl) is een webbureau aan de Metaalhof 27 in Rotterdam. Ayoub Assaidi bouwt alles zelf, met een vaste prijs vooraf. Een voorstel aanvragen kan via [joepify.nl](https://www.joepify.nl) of info@joepify.nl.
+[Joepify](https://www.joepify.nl?utm_source=github&utm_medium=readme&utm_campaign=website-kosten-nl-2026) is een webbureau aan de Metaalhof 27 in Rotterdam. Ayoub Assaidi bouwt alles zelf, met een vaste prijs vooraf. Een voorstel aanvragen kan via [joepify.nl](https://www.joepify.nl?utm_source=github&utm_medium=readme&utm_campaign=website-kosten-nl-2026) of info@joepify.nl.
 
 ## English
 
